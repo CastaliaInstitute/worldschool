@@ -59,6 +59,27 @@ destinations:
           - title: "Build a tabletop polder"
           - title: "Port trade network map"
 
+  - slug: south-africa-afrikaburn
+    name: "South Africa: Desert Art, Ecology, and Community"
+    location: "Cape Town, Tankwa Karoo, Cederberg"
+    starts_on: 2027-05-04
+    ends_on: 2027-05-17
+    age_fit:
+      elementary: "Big-sky observation, desert animal adaptations, collaborative art, simple Afrikaans and isiXhosa greetings."
+      middle: "Desert ecology, water planning, temporary-city systems, South African geography."
+      high: "Participatory culture, civic infrastructure, apartheid and post-apartheid public memory, arid-land conservation."
+    curriculum_units:
+      - title: "How does a community build a city and then leave no trace?"
+        subject: "Art, Ecology, and Civic Design"
+        essential_question: "What does a temporary desert community teach about resources, responsibility, and imagination?"
+        activities:
+          - title: "Temporary city systems map"
+          - title: "Desert survival packing calculation"
+          - title: "Collaborative art proposal and reflection"
+    cautions:
+      - "AfrikaBurn 2027 dates are not yet official; adjust this block when dates are announced."
+      - "Plan conservatively for remote desert travel, self-reliance, dust, heat, cold nights, and strict leave-no-trace expectations."
+
   - slug: united-kingdom-literature-landscape
     name: "United Kingdom: Literature, Empire, and Landscape"
     location: "London, Bath, Oxford, Snowdonia"
